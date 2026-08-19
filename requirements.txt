@@ -1,3 +1,4 @@
 streamlit
-mediapipe
-numpy
+mediapipe==0.10.11
+numpy<2.0.0
+protobuf<5
